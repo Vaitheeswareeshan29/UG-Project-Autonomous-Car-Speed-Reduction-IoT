@@ -65,9 +65,9 @@ Here are some real-time results from the prototype's functioning:
    - Speed is reduced gradually  
    - Robot changes direction using servo motor
 4. 🔁 Repeats the process infinitely until destination is reached
-![Circuit Diagram](control_flow.jpeg)
+![Circuit Diagram](control_flow.JPG)
 ---
 
 ## 📐 Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.jpeg)
+![Circuit Diagram](circuit_diagram.JPG)
