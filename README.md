@@ -48,9 +48,10 @@ The aim is to enhance driver safety, reduce manual intervention, and support sma
 
 Here are some real-time results from the prototype's functioning:
 
-| 🚘 Moving | 📍Obstacle Detected | ⏬ Speed Reduced |
+| 🚘 Moving | 📍Obstacle Detected  | ⏬ Speed Reduced |
+| --------- | ------------------- | -----------------|
+| Yes       | Yes                 | Yes              |
 
-| ![Result](result_iot_proj/result_1.jpg) | ![Result](result_iot_proj/result_2.jpg) |
 
 ---
 
@@ -65,9 +66,3 @@ Here are some real-time results from the prototype's functioning:
    - Speed is reduced gradually  
    - Robot changes direction using servo motor
 4. 🔁 Repeats the process infinitely until destination is reached
-![Circuit Diagram](control_flow.JPG)
----
-
-## 📐 Circuit Diagram
-
-![Circuit Diagram](circuit_diagram.JPG)
